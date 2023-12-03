@@ -1,0 +1,66 @@
+[
+    {
+        "name": "INTERNETBS",
+        "description": "InternetBS registrator plugin",
+        "category": "registrator",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/InternetBS"
+    },
+    {
+        "name": "NAMECHEAP",
+        "description": "Namecheap registrator plugin",
+        "category": "registrator",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/Namecheap"
+    },
+    {
+        "name": "PORKBUN",
+        "description": "Porkbun registrator plugin",
+        "category": "registrator",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/Porkbun"
+    },
+    {
+        "name": "GODADDY",
+        "description": "GODADDY registrator plugin",
+        "category": "registrator",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/GODADDY"
+    },
+    {
+        "name": "NAMESILO",
+        "description": "NAMESILO registrator plugin",
+        "category": "registrator",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/NAMESILO"
+    },
+    {
+        "name": "Prometheus",
+        "description": "Prometheus monitoring plugin",
+        "category": "monitoring",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/Prometheus"
+    },
+    {
+        "name": "SUBDOMAINS",
+        "description": "Subdomains core plugin",
+        "category": "other",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/SUBDOMAINS"
+    },
+    {
+        "name": "CONSUL",
+        "description": "CONSUL Service Discovery plugin",
+        "category": "microservices",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/CONSUL"
+    }
+]
