@@ -59,7 +59,7 @@
         "name": "CONSUL",
         "description": "CONSUL Service Discovery plugin",
         "category": "microservices",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "author": "Alex",
         "repositoryUrl": "https://github.com/kadaj666/CONSUL"
     }
