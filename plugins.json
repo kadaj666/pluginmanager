@@ -1,6 +1,6 @@
 [
     {
-        "name": "INTERNETBS",
+        "name": "internetbs",
         "description": "InternetBS registrator plugin",
         "category": "registrator",
         "version": "0.0.1",
@@ -8,7 +8,7 @@
         "repositoryUrl": "https://github.com/kadaj666/InternetBS"
     },
     {
-        "name": "NAMECHEAP",
+        "name": "namecheap",
         "description": "Namecheap registrator plugin",
         "category": "registrator",
         "version": "0.0.1",
@@ -16,7 +16,7 @@
         "repositoryUrl": "https://github.com/kadaj666/Namecheap"
     },
     {
-        "name": "PORKBUN",
+        "name": "porkbun",
         "description": "Porkbun registrator plugin",
         "category": "registrator",
         "version": "0.0.1",
@@ -24,7 +24,7 @@
         "repositoryUrl": "https://github.com/kadaj666/Porkbun"
     },
     {
-        "name": "GODADDY",
+        "name": "godaddy",
         "description": "GODADDY registrator plugin",
         "category": "registrator",
         "version": "0.0.1",
@@ -32,7 +32,7 @@
         "repositoryUrl": "https://github.com/kadaj666/GODADDY"
     },
     {
-        "name": "NAMESILO",
+        "name": "namesilo",
         "description": "NAMESILO registrator plugin",
         "category": "registrator",
         "version": "0.0.1",
@@ -40,7 +40,7 @@
         "repositoryUrl": "https://github.com/kadaj666/NAMESILO"
     },
     {
-        "name": "Prometheus",
+        "name": "prometheus",
         "description": "Prometheus monitoring plugin",
         "category": "monitoring",
         "version": "0.0.1",
@@ -48,7 +48,7 @@
         "repositoryUrl": "https://github.com/kadaj666/Prometheus"
     },
     {
-        "name": "SUBDOMAINS",
+        "name": "subdomains",
         "description": "Subdomains core plugin",
         "category": "other",
         "version": "0.0.1",
@@ -56,7 +56,7 @@
         "repositoryUrl": "https://github.com/kadaj666/SUBDOMAINS"
     },
     {
-        "name": "CONSUL",
+        "name": "consul",
         "description": "CONSUL Service Discovery plugin",
         "category": "microservices",
         "version": "0.0.2",
