@@ -1,5 +1,13 @@
 [
     {
+        "name": "cloudflare",
+        "description": "Cloudflare manage plugin",
+        "category": "other",
+        "version": "0.0.1",
+        "author": "Alex",
+        "repositoryUrl": "https://github.com/kadaj666/Cloudflare"
+    },
+    {
         "name": "internetbs",
         "description": "InternetBS registrator plugin",
         "category": "registrator",
